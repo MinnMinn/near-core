@@ -1,0 +1,10 @@
+[package]
+name = "near-actix-test-utils"
+version = "0.1.0"
+authors = ["Near Inc <hello@nearprotocol.com>"]
+publish = false
+edition = "2021"
+
+[dependencies]
+actix-rt = "2"
+futures = "0.3"
